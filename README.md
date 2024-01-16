@@ -1,6 +1,6 @@
 # Dog-Breed-Identification
 
-### end-to-end multiclass dog breed classification using tensorflow 2.0 and tensorlfow hub.
+### end-to-end multiclass dog breed classification using tensorflow 2.0 and tensorfow hub.
 
 ## 1. problem identifying the breed of a dog given an image of a dog.
 
